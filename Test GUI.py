@@ -1,5 +1,4 @@
 #!/usr/bin/python
-
 # simple.py
 
 import wx
